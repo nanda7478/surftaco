@@ -1,0 +1,161 @@
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:54
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:20:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_categories_with_images() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:54
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_categories_with_images() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:54
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 54
+[09-Feb-2018 11:39:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function has_category_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:55
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 55
+[09-Feb-2018 11:39:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_category_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:56
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 56
+[09-Feb-2018 12:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_category_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:55
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 55
+[09-Feb-2018 12:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function has_category_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:55
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 55
+[09-Feb-2018 12:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function has_category_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:55
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 55
+[09-Feb-2018 12:41:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_term_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:55
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 55
+[09-Feb-2018 12:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_term_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:55
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 55
+[09-Feb-2018 12:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_term_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:55
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 55
+[09-Feb-2018 12:49:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_term_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:55
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 55
+[10-Feb-2018 04:51:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_category_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:48
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 48
+[10-Feb-2018 04:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_category_thumbnail() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php:48
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 48
+[10-Feb-2018 05:42:45 UTC] PHP Parse error:  syntax error, unexpected ':' in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/location_page.php on line 13
+[10-Feb-2018 07:09:30 UTC] PHP Parse error:  syntax error, unexpected ':' in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/location_page.php on line 30
+[10-Feb-2018 07:10:02 UTC] PHP Parse error:  syntax error, unexpected ':' in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/location_page.php on line 30
+[12-Feb-2018 10:11:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php on line 491
+[12-Feb-2018 10:59:49 UTC] PHP Warning:  Illegal string offset 'url' in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php on line 256
+[12-Feb-2018 12:15:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_field(), 0 passed in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/index.php on line 22 and at least 1 expected in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/plugins/advanced-custom-fields-pro/api/api-template.php:51
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/index.php(22): get_field()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#3 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#4 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/plugins/advanced-custom-fields-pro/api/api-template.php on line 51
+[13-Feb-2018 05:06:28 UTC] PHP Fatal error:  Cannot redeclare the_content() (previously declared in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/post-template.php:230) in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/functions.php on line 569
+[13-Feb-2018 07:07:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_the_subfield_image_src() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php:91
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php on line 91
+[13-Feb-2018 07:09:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_the_subfield_image_src() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php:91
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php on line 91
+[13-Feb-2018 07:10:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_the_subfield_image_src() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php:89
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php on line 89
+[13-Feb-2018 07:12:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_the_subfield_image_src() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php:89
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/surftaco/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/page.php on line 89
+[24-Feb-2018 07:02:16 UTC] PHP Warning:  Illegal offset type in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/gift_cards_page.php on line 39
+[24-Feb-2018 08:21:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/gift_cards_page.php on line 46
+[24-Feb-2018 08:21:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/gift_cards_page.php on line 46
+[24-Feb-2018 08:21:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/gift_cards_page.php on line 46
+[24-Feb-2018 08:30:53 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/gift_cards_page.php on line 54
+[24-Feb-2018 10:10:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/gift_cards_page.php on line 98
+[05-Mar-2018 05:51:27 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home4/trimurty/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 43
+[05-Mar-2018 05:51:47 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ')' in /home4/trimurty/demosrvr.com/wp/surftaco/wp-content/themes/surftaco/menu_page.php on line 43

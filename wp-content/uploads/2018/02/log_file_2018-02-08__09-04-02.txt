@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://demosrvr.com/wp/surftaco
+Data file = /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/company-elite/demo/content.xml
+Widget file = /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/company-elite/demo/widget.wie
+Customizer file = /home4/trimurty/public_html/demosrvr.com/wp/surftaco/wp-content/themes/company-elite/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+CE: Social - Social Links - Imported
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+Front Page Widget Area : 
+
+CE: Services - No Title - Imported
+CE: Latest News - Choose Your Category - Imported
+CE: Featured Page - Elegant Designs - Imported
+CE: Call To Action - Welcome to Company Elite - Imported
+CE: Featured Page - Beautiful Themes - Imported
+CE: Latest News - Popular News - Imported
+CE: Features - About Company Elite - Imported
+CE: Social - No Title - Imported
+
+Footer 1 : 
+
+Text - About Company Elite - Imported
+
+Footer 2 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer 3 : 
+
+Categories - No Title - Imported
+
+Footer 4 : 
+
+Tag Cloud - Tag Cloud - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
